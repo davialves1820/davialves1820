@@ -2,8 +2,17 @@
 
 ## `Estudante de Ciência da Computação`
 
-Meu nome é Davi Alves Rodrigues, tenho 20 anos e sou da Paraíba. Atualmente sou aluno de ciência da computação da UFPB. Sou apaixonado na área e sempre busco aprender cada vez mais.
+Tenho 20 anos, sou da Paraíba e atualmente curso Ciência da Computação na UFPB.
+Sou apaixonado por tecnologia e programação, sempre buscando ampliar meus conhecimentos e desenvolver soluções criativas que gerem impacto.
 
+##
+
+<div> 
+  <a href="https://www.instagram.com/davi_alves1820" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-rodrigues-36750b2a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -34,6 +43,15 @@ Meu nome é Davi Alves Rodrigues, tenho 20 anos e sou da Paraíba. Atualmente so
 
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
@@ -59,6 +77,8 @@ Meu nome é Davi Alves Rodrigues, tenho 20 anos e sou da Paraíba. Atualmente so
 
 <br/>
 <br/>
+
+##
 
 ### 📊 Estatísticas
 
