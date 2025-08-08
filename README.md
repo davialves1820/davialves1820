@@ -2,7 +2,7 @@
 
 ## `Estudante de Ciência da Computação`
 
-Meu nome é Davi Alves Rodrigues, tenho 20 anos e sou venho da Paraíba. Atualmente sou aluno de ciência da computação da UFPB. Sou apaixonado na área e sempre busco aprender cada vez mais.
+Meu nome é Davi Alves Rodrigues, tenho 20 anos e sou da Paraíba. Atualmente sou aluno de ciência da computação da UFPB. Sou apaixonado na área e sempre busco aprender cada vez mais.
 
 
 ### 🤖 Linguagens e Tecnologias
