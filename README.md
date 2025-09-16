@@ -34,7 +34,10 @@ Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. 
 
 ### 📈 Estatísticas do GitHub
 
-[![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davialves1820&show_icons=true&theme=dracula&count_private=true&hide_title=true)](https://github.com/davialves1820)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=davialves1820&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davialves1820&theme=vue-dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
