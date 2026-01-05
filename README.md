@@ -1,9 +1,5 @@
 # Olá, eu sou o Davi Alves! 👋
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ### Estudante de Ciência da Computação na UFPB 💻
 
 Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. Meu objetivo é transformar ideias em soluções criativas e robustas que geram impacto real, sempre buscando as melhores práticas e inovações do mercado.
