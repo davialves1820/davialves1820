@@ -52,3 +52,8 @@ Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_alves1820/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rodrigues-36750b2a5/)
+
+
+<img width="1024" height="926" alt="imagem_de_fundo" src="https://github.com/user-attachments/assets/db7b6e3d-3aa1-4db5-909e-597bfca937a6" />
+
+
