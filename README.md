@@ -6,11 +6,17 @@ Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. 
 
 ---
 
+### 🌐 Meu Portfólio
+
+👉 🌐 **Acesse meu portfólio:** https://site-davi-five.vercel.app/
+
+---
+
 ### 🛠️ Minhas Habilidades (Tech Stack)
 
 #### Linguagens Principais
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +42,6 @@ Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
 ---
 
 ### 📈 Estatísticas do GitHub
@@ -53,7 +58,6 @@ Tenho 20 anos e sou da Paraíba. Sou apaixonado por tecnologia e programação. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_alves1820/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rodrigues-36750b2a5/)
 
+---
 
 <img width="1024" height="926" alt="imagem_de_fundo" src="https://github.com/user-attachments/assets/db7b6e3d-3aa1-4db5-909e-597bfca937a6" />
-
-
