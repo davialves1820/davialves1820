@@ -13,7 +13,7 @@
 - 🚀 Focado em desenvolvimento **Fullstack**
 - 🧠 Interesse em:
   - Engenharia de Software
-  - Backend
+  - Desenvolvimento Fullstack
   - Machine Learning
   - Arquitetura de Sistemas
 - 🎯 Objetivo: transformar ideias em soluções robustas e escaláveis
